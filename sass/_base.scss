@@ -1,0 +1,10 @@
+/*
+ * Contains base rules for the theme.
+ * https://smacss.com/book/type-base
+ */
+
+body {
+  background-color: $background-color;
+  margin: 0;
+  padding: 0;
+}
